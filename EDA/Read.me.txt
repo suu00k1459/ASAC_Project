@@ -1,0 +1,36 @@
+## 알바리뷰 데이터 분석
+
+### 파일 설명
+
+### < 코드 >
+- ParttiemJob.ipynb
+	데이터 크롤링단계 law data
+	"업종_브랜드명.csv" file 로 저장 (ex. clothes_8S)
+
+- ParttimeJob_plus.ipynb
+	law data 가공 -> 더미변수, 파생변수 생성, 데이터 프레임 생성
+	"tot_업종.csv" file 로 저장 (ex. tot_clothes)
+
+- ParttiemJob_question.ipynb 
+	데이터 확인 및 비율 확인용
+	관련 결과 result 파일에 이미지 저장
+
+- ParttiemJob_Associate.ipynb 
+	연관분석 결과
+	관련 결과 result 파일에 이미지 저장
+
+- ParttiemJob_LR.ipynb
+
+
+### < 폴더 >
+- result : 결과 데이터 이미지 파일 저장 
+
+- ppt : ppt 발표자료, ppt 제작과 관련된 결과 이미지 외 이미지, 태블로 이미지
+
+
+## < 파일 >
+- 분석 코멘트 기록.words
+	분석 전 개요, 분석 후 해석 등 기록 (정리 안되있음. 개인 기록용임)
+
+- 추가자료.words
+	result 폴더 이미지 정리(참고용)
