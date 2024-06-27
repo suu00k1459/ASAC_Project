@@ -1,0 +1,5 @@
+1. image_rgb.csv
+	- 1693개 데이터 rgb 값 csv
+
+2. 2059개 COLOR - DEC,RATIO.csv
+	- 추가 데이터 rgb값 csv

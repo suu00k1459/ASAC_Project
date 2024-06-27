@@ -1,0 +1,5 @@
+1. text_data.csv
+	- 포스터 텍스트 데이터 1693개 csv
+
+2. text_data_2.csv
+	- 포스트 텍스트 추가 데이터 csv
